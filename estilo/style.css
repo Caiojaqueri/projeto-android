@@ -89,7 +89,7 @@ header > p {/*PARÁGRAFOS DO HEADER*/
     padding-left: 10px;/*espaço da esquerda */
     padding-right: 10px;/*espaço da direita */
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
 }
 
 
